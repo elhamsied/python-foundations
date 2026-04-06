@@ -1,4 +1,4 @@
-# Python Foundations - Advanced Version
+# Python Foundations
 # Author: Elham Seid Ahmed
 
 import time
