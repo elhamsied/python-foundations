@@ -1,6 +1,3 @@
-# Python Foundations
-# Author: Elham Seid Ahmed
-
 import time
 
 # -------------------------------
